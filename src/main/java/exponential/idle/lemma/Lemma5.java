@@ -12,12 +12,15 @@ public class Lemma5 {
 
             int max = 0;
             for (int ci = 1; ci < 100; ci++) {
+                /*
+                 * (ci)^4 * ( 2*i^2 - (ci) )
+                 */
                 int result = ((ci * ci * ci * ci) * ((2 * (i * i)) - ci));
                 if (result > max) {
                     max = result;
                 }
                 if (result < max) {
-                    log.info("i = " + i + ", ci = " + (ci - 1));
+                    log.info("Maximum value for c" + i + " = " + (ci - 1));
                     break;
                 }
             }
