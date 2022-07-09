@@ -1,7 +1,6 @@
 # Exponential Idle Lemma Solver
 
-## Simple java classes to find perfect partial solutions for Lemmas 5, 6  
-and Lemma 7
+## Simple java classes to find partial solutions for Lemma 5, 6 and 7
 
 ## Application use
 
