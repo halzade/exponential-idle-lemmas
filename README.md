@@ -1,6 +1,7 @@
 # Exponential Idle Lemma Solver
 
-## Simple java classes to find perfect partial solutions for Lemmas 5, 6 and 7
+## Simple java classes to find perfect partial solutions for Lemmas 5, 6  
+and Lemma 7
 
 ## Application use
 
@@ -17,4 +18,4 @@ For example `Lemman5.main()` solves
     16:11:22 INFO Lemma5:23 - Maximum value for c7 = 78
     16:11:22 INFO Lemma5:23 - Maximum value for c8 = 83
 
-Run main methods at `Lamma6` and `Lemma7` to find their perfect solutions
+Run main methods at `Lamma6` and `Lemma7` to find their perfect partial solutions.
